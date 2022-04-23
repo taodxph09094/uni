@@ -1,0 +1,23 @@
+{
+  "field.order": "Đơn hàng",
+  "field.code": "Mã",
+  "field.merchant": "Merchant",
+  "field.pay_method": "Phương thức thanh toán",
+  "field.create_date": "Tạo lúc",
+  "field.create_by": "Tạo bởi",
+  "field.status": "Trạng thái",
+  "field.sale_point": "Điểm bán hàng",
+  "field.sale_date": "Ngày giờ bán",
+  "field.update_date": "Sửa đổi gần nhất lúc",
+  "field.update_by": "Sửa đổi gần nhất bởi",
+
+  "table.product": "Sản phẩm",
+  "table.no": "No.",
+  "table.unit_price": "Đơn giá",
+  "table.amount": "Số lượng",
+  "table.money": "Tiền hàng",
+  "table.discount": "Giảm giá",
+  "table.total_money": "Tổng tiền",
+  "table.ship": "Tiền ship",
+  "table.sum": "Tổng cộng"
+}

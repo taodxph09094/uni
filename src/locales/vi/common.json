@@ -1,0 +1,17 @@
+{
+  "field.choose": "Vui lòng chọn",
+  "field.input_data": "Nhập dữ liệu",
+
+  "button.reset": "Làm lại",
+  "button.search": "Tìm kiếm",
+  "button.back": "Quay lại",
+  "button.create": "Thêm mới",
+  "button.cancel": "Hủy",
+  "button.ok": "OK",
+
+  "table.action": "Hành động",
+
+  "validate.required": " không được để trống",
+  "validate.choose": "Vui lòng chọn ",
+  "field.address": "Địa chỉ"
+}

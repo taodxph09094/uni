@@ -1,0 +1,9 @@
+{
+  "field.pos": "POS name",
+  "field.staff": "Staff",
+  "field.startTime": "Start time",
+  "field.endTime": "End time",
+  "field.orders": "Count",
+  "field.revenue": "Revenue",
+  "field.canteen": "Name"
+}

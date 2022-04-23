@@ -1,0 +1,16 @@
+{
+  "sidebar.dashboard": "Tổng hợp",
+  "sidebar.business": "Nghiệp vụ",
+  "sidebar.system": "Hệ thống",
+  "sidebar.users": "Người dùng",
+  "sidebar.user_details": "Thông tin người dùng",
+  "sidebar.pointOfSales": "Điểm bán hàng",
+  "sidebar.saleOrders": "Đơn hàng",
+  "sidebar.saleOrdersDetail": "Chi tiết đơn hàng",
+  "sidebar.merchants": "Merchants",
+  "sidebar.user_group": "Nhóm người dùng",
+  "sidebar.userGroupDetails": "Thông tin nhóm người dùng",
+  "sidebar.posSessions": "Ca bán hàng",
+  "sidebar.schools": "Điểm trường",
+  "sidebar.canteens": "Căng tin"
+}

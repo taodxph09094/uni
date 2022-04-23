@@ -1,0 +1,8 @@
+{
+  "signInTitle": "ĐĂNG NHẬP HỆ THỐNG",
+  "field.username": "Tên đăng nhập",
+  "field.password": "Mật khẩu",
+  "field.btnSubmit": "Đăng nhập",
+  "validate.usernameRequired": "Tên đăng nhập bắt buộc nhập.",
+  "validate.passwordRequired": "Mật khẩu bắt buộc nhập."
+}

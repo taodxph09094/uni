@@ -1,0 +1,34 @@
+{
+    "field.address": "Address",
+    "field.phone": "Phone number",
+
+    "table.fullName": "Fullname",
+    "table.phone": "Phone number",
+    "table.email": "Email",
+    "table.status": "Status",
+    "table.status.enable": "Enable",
+    "table.status.disable": "Disable",
+    "table.action": "Action",
+    "table.action.enable": "Enable",
+    "table.action.disable": "Disable",
+
+    "table.staffName": "Staff name",
+
+    "field.address": "Address",
+    "field.phone": "Phone number",
+    "field.email": "Email",
+    "field.enabled": "Enabled",
+    "field.create_at": "Created at",
+    "field.last_modified_at": "Last modified at",
+    "field.creator": "Creator",
+    "field.modified": "Modified",
+    "table.enabled.enable": "Enable",
+    "table.enabled.disable": "Disable",
+
+    "field.shop_master": "Shop master",
+    "field.staff": "Staff",
+    "field.pos": "Point of sales",
+    "field.products": "Products",
+    "field.owner_list": "Owner list",
+    "field.staff_list": "Staff list"
+}

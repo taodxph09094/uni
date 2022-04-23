@@ -1,0 +1,8 @@
+{
+  "signInTitle": "SIGNIN",
+  "field.username": "Username",
+  "field.password": "Password",
+  "field.btnSubmit": "Submit",
+  "validate.usernameRequired": "Username is required.",
+  "validate.passwordRequired": "Password is required."
+}

@@ -1,0 +1,17 @@
+{
+  "field.choose": "Please select",
+  "field.input_data": "Insert information",
+
+  "button.reset": "Reset",
+  "button.search": "Search",
+  "button.back": "Back",
+  "button.create": "Add new",
+  "button.cancel": "Cancel",
+  "button.ok": "OK",
+
+  "table.action": "Action",
+
+  "validate.required": " is required",
+  "validate.choose": "Please choose ",
+  "field.address": "Address"
+}

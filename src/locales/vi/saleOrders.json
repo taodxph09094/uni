@@ -1,0 +1,9 @@
+{
+  "field.merchant": "Merchant",
+  "field.sale_date": "Ngày giờ bán",
+
+  "table.code": "Mã",
+  "table.merchant": "Merchant",
+  "table.sum": "Tổng tiền",
+  "table.sale_time": "Ngày giờ bán"
+}

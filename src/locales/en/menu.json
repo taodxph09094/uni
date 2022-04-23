@@ -1,0 +1,16 @@
+{
+  "sidebar.dashboard": "Dashboard",
+  "sidebar.business": "Business",
+  "sidebar.system": "System",
+  "sidebar.users": "Users",
+  "sidebar.user_details": "User Details",
+  "sidebar.pointOfSales": "Point of Sales",
+  "sidebar.saleOrders": "Sale Orders",
+  "sidebar.saleOrdersDetail": "Sale Order Detail",
+  "sidebar.merchants": "Merchants",
+  "sidebar.user_group": "User groups",
+  "sidebar.userGroupDetails": "User group information",
+  "sidebar.posSessions": "Pos Sessions",
+  "sidebar.schools": "Schools",
+  "sidebar.canteens": "Canteens"
+}

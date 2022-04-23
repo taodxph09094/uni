@@ -1,0 +1,23 @@
+{
+    "field.merchant": "Tên merchant",
+    "field.address": "Địa chỉ",
+    "field.phone": "Số điện thoại",
+    "field.email": "Email",
+
+    "table.merchant" : "Tên merchant",
+    "table.address": "Địa chỉ",
+    "table.phone": "Số điện thoại",
+    "table.enabled.enable": "Hoạt động",
+    "table.enabled.disable": "Ngừng hoạt động",
+
+    "button.reset": "Làm lại",
+    "button.search": "Tìm kiếm",
+    "button.add" : "Tạo mới",
+    "button.update" : "Chỉnh sửa",
+
+    "placeholder.name": "Nhập tên",
+    "placeholder.phone": "Nhập số điện thoại",
+    "placeholder.email": "Nhập email",
+
+    "validate.required": "Không được để trống "
+}

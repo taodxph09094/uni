@@ -1,0 +1,9 @@
+{
+  "field.merchant": "Merchant",
+  "field.sale_date": "Sale date",
+
+  "table.code": "Code",
+  "table.merchant": "Merchant",
+  "table.sum": "Total amount",
+  "table.sale_time": "Sale date"
+}

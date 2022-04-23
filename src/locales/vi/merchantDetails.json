@@ -1,0 +1,32 @@
+{
+    "table.fullName": "Họ tên",
+    "table.phone": "Số điện thoại",
+    "table.email": "Email",
+    "table.status": "Trạng thái",
+    "table.status.enable": "Đang hoạt động",
+    "table.status.disable": "Ngừng hoạt động",
+    "table.action": "Hành động",
+    "table.action.enable": "Đang hoạt động",
+    "table.action.disable": "Ngừng hoạt động",
+
+    "table.staffName": "Họ và tên",
+
+    "field.address": "Địa chỉ",
+    "field.phone": "Số điện thoại",
+    "field.email": "Email",
+    "field.enabled": "Trạng thái",
+    "field.create_at": "Được tạo lúc",
+    "field.last_modified_at": "Sửa đổi gần nhất lúc",
+    "field.creator": "Tạo bởi",
+    "field.modified": "Sửa đổi gần nhất bởi",
+    "field.enabled.enable": "Đang hoạt động",
+    "field.enabled.disable": "Đừng hoạt động",
+
+    "field.shop_master": "Chủ cửa hàng",
+    "field.staff": "Nhân viên",
+    "field.pos": "Điểm bán hàng",
+    "field.products": "Sản phẩm",
+    "field.owner_list": "Danh sách chủ cửa hàng",
+    "field.staff_list": "Danh sách nhân viên"
+
+}

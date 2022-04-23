@@ -1,0 +1,16 @@
+{
+  "field.name": "Name",
+  "field.merchant": "Merchant",
+  "field.school": "School",
+  "field.canteen": "Canteen",
+  "field.status": "Status",
+  "field.status.enable": "Enable",
+  "field.status.disable": "Disable",
+  "field.selectDefault": "Choose",
+  "button.reset": "Reset",
+  "button.search": "Query",
+  "button.add": "New",
+  "button.update": "Edit",
+  "placeholder.school": "Input name of school",
+  "placeholder.address": "Input address of canteen"
+}

@@ -1,0 +1,24 @@
+{
+    "field.merchant": "Merchant",
+    "field.address": "Address",
+    "field.phone": "Phone number",
+    "field.email": "Email",
+
+    "table.merchant" : "Merchant",
+    "table.address": "Address",
+    "table.phone": "Phone number",
+    "table.enabled.enable": "Enable",
+    "table.enabled.disable": "Disable",
+    "table.enabled": "Enabled",
+
+    "button.reset": "Reset",
+    "button.search": "Search",
+    "button.add" : "Create new",
+    "button.update": "Update",
+
+    "placeholder.name": "Input name",
+    "placeholder.phone": "Input phone number",
+    "placeholder.email": "Input email",
+
+    "validate.required": "Please enter "
+}

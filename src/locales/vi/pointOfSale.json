@@ -1,0 +1,16 @@
+{
+  "field.name": "Tên",
+  "field.merchant": "Merchant",
+  "field.school": "Điểm trường",
+  "field.canteen": "Căng tin",
+  "field.status": "Trạng thái",
+  "field.status.enable": "Đang hoạt động",
+  "field.status.disable": "Ngừng hoạt động",
+  "field.selectDefault": "Chọn",
+  "button.reset": "Làm lại",
+  "button.search": "Tìm kiếm",
+  "button.add": "Thêm mới",
+  "button.update": "Chỉnh sửa",
+  "placeholder.school": "Nhập tên điểm trường",
+  "placeholder.address": "Nhập địa chỉ"
+}

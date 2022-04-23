@@ -1,0 +1,23 @@
+{
+  "field.order": "Order",
+  "field.code": "Code",
+  "field.merchant": "Merchant",
+  "field.pay_method": "Payment methods",
+  "field.create_date": "Create date",
+  "field.create_by": "Created by",
+  "field.status": "Status",
+  "field.sale_point": "Point of sale",
+  "field.sale_date": "Date of sale",
+  "field.update_date": "Last modified at",
+  "field.update_by": "Last edited by",
+
+  "table.product": "Product",
+  "table.no": "No.",
+  "table.unit_price": "Unit price",
+  "table.amount": "Amount",
+  "table.money": "Money",
+  "table.discount": "Discount",
+  "table.total_money": "Total money",
+  "table.ship": "Shipping fee",
+  "table.sum": "Total"
+}
